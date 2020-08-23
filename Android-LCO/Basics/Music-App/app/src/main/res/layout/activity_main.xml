@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="0"
+            app:layout_column="0"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/one" />
+
+        <Button
+            android:id="@+id/two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="0"
+            app:layout_column="1"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/two"/>
+
+        <Button
+            android:id="@+id/three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="1"
+            app:layout_column="0"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/three" />
+
+        <Button
+            android:id="@+id/four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="1"
+            app:layout_column="1"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/four"/>
+
+        <Button
+            android:id="@+id/five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="2"
+            app:layout_column="0"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/five" />
+
+        <Button
+            android:id="@+id/six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_row="2"
+            app:layout_column="1"
+            app:layout_rowWeight="1"
+            app:layout_columnWeight="1"
+            android:onClick="buttonTapped"
+            android:text="@string/six"/>
+
+    </android.support.v7.widget.GridLayout>
+</android.support.constraint.ConstraintLayout>

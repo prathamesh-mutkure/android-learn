@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223454973417",
+    "firebase_url": "https://lco-learning.firebaseio.com",
+    "project_id": "lco-learning",
+    "storage_bucket": "lco-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223454973417:android:cfb4c7dc91036ba7",
+        "android_client_info": {
+          "package_name": "learn.lco.fb.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223454973417-st0386dvq5l4aaqof1ei92po0l18lnk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learn.lco.fb.google",
+            "certificate_hash": "88ef37318b7fb771cd30d2bc0a84f208fe9f6a2c"
+          }
+        },
+        {
+          "client_id": "223454973417-3vlefrmqjn35vnfg7k7n6nltdv3vsri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tn57LjqIJex57BnuK7NZWX-R5S4XvJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223454973417-3vlefrmqjn35vnfg7k7n6nltdv3vsri0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

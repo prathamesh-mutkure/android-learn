@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App LCO</string>
+    <string name="app_title">Weather App</string>
+    <string name="input">Enter City</string>
+    <string name="button">Get Info</string>
+    <string name="error">Unable to load Data!</string>d
+</resources>

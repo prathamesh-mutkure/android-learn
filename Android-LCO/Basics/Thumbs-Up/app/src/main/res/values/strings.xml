@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThumbsUp</string>
+    <string name="title">Thumbs Up</string>
+    <string name="content_Des">A Thumbs Up Image</string>
+</resources>

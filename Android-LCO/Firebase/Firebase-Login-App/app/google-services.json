@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086301032653",
+    "firebase_url": "https://fir-login-app-bfa30.firebaseio.com",
+    "project_id": "fir-login-app-bfa30",
+    "storage_bucket": "fir-login-app-bfa30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086301032653:android:a0ef8d208b3075f4",
+        "android_client_info": {
+          "package_name": "learn.lco.fb.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086301032653-fvu40e6ffq5qioitk09h2n84v76tnopm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "learn.lco.fb.login",
+            "certificate_hash": "88ef37318b7fb771cd30d2bc0a84f208fe9f6a2c"
+          }
+        },
+        {
+          "client_id": "1086301032653-4uhrdh1eulrra2hnumlisq9c25o8p7gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPD-PEsdiLuWvmnMC6aooDrne2FNgV6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086301032653-4uhrdh1eulrra2hnumlisq9c25o8p7gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

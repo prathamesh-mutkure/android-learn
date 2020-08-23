@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">User Registration</string>
+    <string name="username">UserName</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="enter">Enter</string>
+    <string name="btn">See All Users</string>
+    <string name="back">Back</string>
+</resources>
